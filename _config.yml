@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "RiesonZ's Homepage"
+description              : "Happy wife, happy life. "
+repository               : "Guobin-Zhang/Guobin-Zhang.github.io"
+url                      : https://guobin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
