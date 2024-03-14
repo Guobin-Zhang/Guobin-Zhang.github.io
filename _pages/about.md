@@ -44,12 +44,12 @@ If you have any interest in my research direction, please contact me at my E-mai
 
 
 # 🎖 Honors and Awards
-- *2022.12* : Pacesetter, Institute of Materials Science and Engineering
-- *2022.04* : Top 10 Learning Stars (Undergraduate)
+- *2022.12* : Pacesetter, Institute of Materials Science and Engineering (Undergraduate)
+- *2022.04* : Top 10 Learning Stars (Undergraduate) (Top 0.1%)
 - *2021.12* : National Scholarship (Undergraduate) (Top 1%)
-- *2021.12* : Pacesetter, Institute of Materials Science and Engineering
+- *2021.12* : Pacesetter, Institute of Materials Science and Engineering (Undergraduate)
 - *2021.10* : People's Scholarship (Undergraduate) (Top 5%)
-- *2020.12* : Pacesetter, Institute of Materials Science and Engineering
+- *2020.12* : Pacesetter, Institute of Materials Science and Engineering (Undergraduate)
 
 # 📖 Educations
 - *2023.09 - 2024.04 (now)* : Master, School of integrated circuits, Zhejiang University
