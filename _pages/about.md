@@ -26,7 +26,8 @@ If you have any interest in my research direction, please contact me at my E-mai
 # 🔥 Research Interests
 - Cryptography based on memristors.
 - Neuromorphic computing based on memristors.
-- Functional self-rectifying memristors. 
+- Functional self-rectifying memristors.
+- Two-dimensional materials and functional devices.
 
 # 📝 Publications 
 
@@ -37,12 +38,18 @@ If you have any interest in my research direction, please contact me at my E-mai
 - Yishu Zhang, **Guobin Zhang**, Qi Luo, Zijian Wang, Xuemeng Fan. A bi-entropic source physical unclonable function against multi-mode attacks
 - Yishu Zhang, **Guobin Zhang**, Xuemeng Fan, Pengtao Li. A Sigmoid activation function storage-calculation integration circuit
 - Yishu Zhang, Jianhao Kan, Ziyang Zhang, **Guobin Zhang**, Xuemeng Fan. A security primitive module realizing dual functionality of TRNG and PUF and method thereof
+- **Guobin Zhang**, Meng Jiang, Xi Chen, Zhenglong Lei, Yanbin Chen. Establishment of a heat source for deep fusion laser welding of thick-walled round pipe workpieces in a circular path
 
 # 💬 Conferences
 
 
 # 🎖 Honors and Awards
-
+- *2022.12* : Pacesetter, Institute of Materials Science and Engineering
+- *2022.04* : Top 10 Learning Stars (Undergraduate)
+- *2021.12* : National Scholarship (Undergraduate) (Top 1%)
+- *2021.12* : Pacesetter, Institute of Materials Science and Engineering
+- *2021.10* : People's Scholarship (Undergraduate) (Top 5%)
+- *2020.12* : Pacesetter, Institute of Materials Science and Engineering
 
 # 📖 Educations
 - *2023.09 - 2024.04 (now)* : Master, School of integrated circuits, Zhejiang University
