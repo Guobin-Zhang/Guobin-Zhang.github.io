@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "RiesonZ's Homepage"
+title                    : "Rieson Zhang"
 description              : "Happy wife, happy life 🙂 "
 repository               : "Guobin-Zhang/Guobin-Zhang.github.io"
 url                      : https://guobin-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
