@@ -31,8 +31,8 @@ If you have any interest in my research direction, please contact me at my E-mai
 
 # 📝 Publications 
 
-- **Guobin Zhang**, Teng Ma, Bo Wang, Desmond K.Loke and Yishu Zhang. [Editorial: Cutting-edge systems and materials for brain-inspired computing, adaptive bio-interfacing and smart sensing: implications for neuromorphic computing and biointegrated frameworks](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1321387/full), **Frontiers in Neuroscience 2023**
 - Zijian Wang, Yixian Song, **Guobin Zhang**, Qi Luo, Kai Xu, Dawei Gao, Bin Yu, Desmond Loke, Shuai Zhong and Yishu Zhang. [Advances of Embedded Resistive Random Access Memory in Industrial Manufacturing and Its Potential Applications](https://iopscience.iop.org/article/10.1088/2631-7990/ad2fea/meta), **International Journal of Extreme Manufacturing 2024**
+- **Guobin Zhang**, Teng Ma, Bo Wang, Desmond K.Loke and Yishu Zhang. [Editorial: Cutting-edge systems and materials for brain-inspired computing, adaptive bio-interfacing and smart sensing: implications for neuromorphic computing and biointegrated frameworks](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1321387/full), **Frontiers in Neuroscience 2023**
 
 # 💻 Patents
 - Yishu Zhang, **Guobin Zhang**, Qi Luo, Zijian Wang, Xuemeng Fan. A bi-entropic source physical unclonable function against multi-mode attacks
